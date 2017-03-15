@@ -1,5 +1,4 @@
 function weather() {
-
 }
 
 weather.prototype.isWeatherStormy = function() {
@@ -8,4 +7,4 @@ weather.prototype.isWeatherStormy = function() {
   } else {
     return false;
   }
-};
+}
