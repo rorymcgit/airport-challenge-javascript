@@ -1,4 +1,8 @@
-# airport-challenge-javascript
+# Air Traffic Control System
 
-#### Airport Challenge in JavaScript (ported from the Ruby Makers Academy Week 1 Weekend Challenge)
+This is a reimplementation of the Makers Academy week 1 weekend challenge (originally written in Ruby). This version is basic, and was used as an introduction to the JavaScript programming language.
+
+#### Technologies used:
+- JavaScript
+- Jasmine 
 
